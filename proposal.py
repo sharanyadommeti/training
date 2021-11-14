@@ -1,6 +1,6 @@
-class anantha:
+class sara:
     
     def __init__(self):
-        print("I love you Sharanya Puppy")
+        print("I love you Aarna Puppy")
 
-a = anantha()
+a = sara()
