@@ -1,6 +1,6 @@
 class sara:
     
     def __init__(self):
-        print("I love you Aarna Puppy")
+        print("I love you Aarna Pupp1y")
 
 a = sara()
